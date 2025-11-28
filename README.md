@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh Gupta
+- 👋 Hi, I’m Harsh Gupta
 - 👀 I’m interested in  Machine Learning, Artificial Intelligence, Web Development, and Open-Source Contribution ..
 - 🌱 I’m currently learning Data Science, and Java Full-Stack Development ..
 - 💞️ I’m looking to collaborate on Projects involving AI, ML, and Web Development, especially those focused on Social Impact ...
