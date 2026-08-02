@@ -30,32 +30,21 @@ I build responsive production websites and research how AI actually fits into a 
 
 ## Tech Stack
 
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-FF6B35?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1a1a2e" alt="JavaScript"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" alt="HTML5, CSS3, JavaScript, Java"/>
 </p>
 
-**Programming & Core**
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/DSA-FF8C42?style=for-the-badge&logoColor=white" alt="DSA"/>
-  <img src="https://img.shields.io/badge/OOP-FFA94D?style=for-the-badge&logoColor=1a1a2e" alt="OOP"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Git, GitHub, VS Code, Vercel"/>
 </p>
 
-**Tools & Deployment**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=FFCBA4" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vercel-1a1a2e?style=for-the-badge&logo=vercel&logoColor=FFCBA4" alt="Vercel"/>
-</p>
-
-**AI Development** — Prompt Engineering · AI-Assisted Coding · AI Tool Evaluation
+<table align="center">
+  <tr><td><b>Frontend</b></td><td>HTML5 · CSS3 · JavaScript · Responsive Web Design · Flexbox · Semantic HTML</td></tr>
+  <tr><td><b>Programming</b></td><td>Java · OOP · Exception Handling · Collections</td></tr>
+  <tr><td><b>DSA</b></td><td>Arrays · Strings · Searching · Sorting · Two-Pointer</td></tr>
+  <tr><td><b>AI Development</b></td><td>Prompt Engineering · AI-Assisted Coding · AI Tool Evaluation</td></tr>
+  <tr><td><b>Tools</b></td><td>Git · GitHub · Visual Studio Code · Vercel</td></tr>
+</table>
 
 ---
 
@@ -101,7 +90,7 @@ I build responsive production websites and research how AI actually fits into a 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/harsh-gupta07">
-    <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=FFCBA4" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
