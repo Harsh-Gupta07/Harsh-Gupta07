@@ -1,77 +1,110 @@
-&lt;!-- Banner --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,1:764ba2&height=200&section=header&text=Harsh%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/&gt;
-&lt;/p&gt;
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,1:764ba2&height=200&section=header&text=Harsh%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+</p>
 
-&lt;!-- Typing Animation --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Full-Stack+Developer;Open+Source+Contributor;Problem+Solver+%26+Hackathon+Fan" alt="Typing SVG"/&gt;
-&lt;/p&gt;
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Front-End+Developer;AI+Researcher+Intern+%40+A2+Infotech;Founder+%26+President+%40+TechArena+LNCT" alt="Typing SVG"/>
+</p>
 
-&lt;!-- Badges --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Harsh-Gupta07&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/&gt;
-  &lt;img src="https://img.shields.io/github/followers/Harsh-Gupta07?label=Followers&style=for-the-badge&color=764ba2&labelColor=1a1a2e" alt="Followers"/&gt;
-  &lt;img src="https://img.shields.io/github/stars/Harsh-Gupta07?label=Stars&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="Stars"/&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh-gupta07&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/harsh-gupta07?label=Followers&style=for-the-badge&color=764ba2&labelColor=1a1a2e" alt="Followers"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Passionate developer exploring the intersection of **AI/ML** and **Web Development**
-- 🌱 Currently mastering **Data Structures & Algorithms** and **Java Full-Stack Development**
-- 🤝 Open to collaborating on **AI/ML** and **Web Dev** projects with **Social Impact**
-- ⚡ **Fun Fact:** Hackathon enthusiast who thrives on solving complex problems
-- 😄 **Pronouns:** He/Him
+I build responsive production websites and research how AI actually fits into a developer's workflow.
 
----
-
-## 🛠️ Tech Stack
-
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/&gt;
-  &lt;img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/&gt;
-  &lt;img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/&gt;
-  &lt;img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/&gt;
-  &lt;img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/&gt;
-  &lt;img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/&gt;
-  &lt;img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/&gt;
-  &lt;img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/&gt;
-  &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/&gt;
-&lt;/p&gt;
+- **Front-End Developer & AI Researcher Intern** at **A2 Infotech Pvt. Ltd.**, Bhopal — shipping live client pages in HTML5, CSS3 and JavaScript
+- **Founder & President** of **TechArena LNCT** — grew a **30-member developer community in two months**
+- Led **Coding Premier League** — a national **7-hour** coding competition with **250+ teams**
+- Second-year **B.Tech Computer Science** student at LNCT Excellence, Bhopal · **CGPA 8.34/10**
+- Currently deep in **Data Structures & Algorithms** with Java
+- Based in Bhopal, MP · He/Him
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Harsh-Gupta07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="GitHub Stats" width="48%"/&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-Gupta07&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea" alt="Streak Stats" width="48%"/&gt;
-&lt;/p&gt;
+**Frontend**
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Gupta07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea" alt="Top Languages" width="40%"/&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+**Programming & Core**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/DSA-764ba2?style=for-the-badge&logoColor=white" alt="DSA"/>
+  <img src="https://img.shields.io/badge/OOP-667eea?style=for-the-badge&logoColor=white" alt="OOP"/>
+</p>
+
+**Tools & Deployment**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
+
+**AI Development** — Prompt Engineering · AI-Assisted Coding · AI Tool Evaluation
 
 ---
 
-## 🌐 Let's Connect
+## Featured Projects
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:code.harshgupta@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/harsh-gupta77"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/Harsh-Gupta07"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| **A2 Infotech Website** | Responsive company site with structured service information and clear navigation | HTML5, CSS3, JS | [Visit](https://a2info-tech.vercel.app) |
+| **Vibe Coding Landing Page** | Conversion-focused course page — learning outcomes, mentors, pricing, registration | HTML5, CSS3, JS | [Visit](https://harsh-gupta07.github.io/VibeCoding) |
+| **SCA X — Build with AI** | Responsive site for an AI-focused learning initiative with prominent CTAs | HTML5, CSS3, JS | [Visit](https://harsh-gupta07.github.io/SCA-X-Build-with-AI) |
+| **SCALive Cricket Academy** | Academy site with training info, schedules and enquiry sections | HTML5, CSS3 | [Visit](https://sca-live-cricket-academy.vercel.app) |
 
-&lt;!-- Footer --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,1:764ba2&height=100&section=footer" alt="footer"/&gt;
-&lt;/p&gt;
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-gupta07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=harsh-gupta07&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=ff6b6b&currStreakLabel=667eea" alt="Streak Stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-gupta07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea" alt="Top Languages" width="40%"/>
+</p>
+
+---
+
+## Achievements
+
+- **₹1,00,000 cash prize** — Pratibha Samman Yojna 2025, national quiz competition; honoured by the Collector of Bhopal
+- **Microsoft 365 Certified: Fundamentals** — Microsoft
+- Built TechArena LNCT from zero to **30 active developers** in two months
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="mailto:code.harshgupta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-gupta77">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/harsh-gupta07">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,1:764ba2&height=100&section=footer" alt="footer"/>
+</p>
